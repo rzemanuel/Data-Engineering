@@ -9,7 +9,7 @@ The model is demoed here through Heiroku
 ## Tricky Package Installs
 OpenEXR is a difficult to install, but google colab makes the install as easy as:
 
-'''pip install OpenEXR'''
+```pip install OpenEXR```
 
 The notebook is available to run data_enginnering.py with OpenEXR
 
