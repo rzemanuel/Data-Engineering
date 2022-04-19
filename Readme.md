@@ -15,6 +15,12 @@ OpenEXR is a difficult to install, but google colab makes the install as easy as
 
 The notebook is available to run data_enginnering.py with OpenEXR
 
+
+
+## Source Images
+
+Source images can be found here: https://drive.google.com/drive/folders/1JDudc9VQm-RswkKT0eEUfZ1wxD_uxBUF?usp=sharing
+
     
 
 
