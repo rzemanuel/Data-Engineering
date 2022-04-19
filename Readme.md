@@ -31,5 +31,5 @@ For Unit Testing, you will need this [test image](https://drive.google.com/file/
 
     
 ## Web Application
-The web application can be run locally with [Predictor](https://github.com/rzemanuel/Data-Engineering/blob/main/predictor.py) using flask or gunicorn on jpg images.  Prcoessing 3d Look Up Tables through the model instead of the image speed up the processing for the application by a large margin!
+The web application can be run locally with [Predictor](https://github.com/rzemanuel/Data-Engineering/blob/main/predictor.py) using flask or gunicorn on jpg images.  Utilizing 3d Look Up Tables for the input of the model instead of the entire image speed up processing for the application by a large margin!
 
