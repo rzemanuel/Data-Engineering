@@ -19,7 +19,7 @@ OpenEXR is a difficult to install, but google colab makes the install as easy as
 
 ```pip install OpenEXR```
 
-This [notebook](https://github.com/rzemanuel/Data-Engineering/blob/main/Pipeline.ipynb) is available to run data_enginnering.py in google colab with OpenEXR. The repo will need to be move to google drive to reference files with google colab.
+This [notebook](https://github.com/rzemanuel/Data-Engineering/blob/main/Pipeline.ipynb) is available to run data_enginnering.py in google colab with OpenEXR. It's easiest to move this repo to google drive to reference files with google colab.
 
 
 
