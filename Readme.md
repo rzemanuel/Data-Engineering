@@ -21,6 +21,8 @@ The notebook is available to run data_enginnering.py with OpenEXR.
 
 Source images can be found here: https://drive.google.com/drive/folders/1JDudc9VQm-RswkKT0eEUfZ1wxD_uxBUF?usp=sharing.  Download the entire foloder to the working directory prior to running data_enginnering.py.
 
+For Unit Testing the following test image will need to be added to [unittesting]
+
     
 
 
