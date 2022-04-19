@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> WB ANN</title>
+    <body>
+    </head>
+    <h1>
+        Test a White Balance change with an Image
+    </h1>
+
+    <p> Upload an image and enter the white balance used during recording and the desired white balance for the color correction!
+    </p>
+    <form action='/predict', method="POST" enctype = "multipart/form-data">
+    <input type="file" name ="img">
+    <br>
+    <p>INPUT WHITE BALANCE</p>
+    <input type='text' name = "Input White Balance">
+    <br>
+    <p>OUTPUT WHITE BALANCE</p>
+    
+    <input type='text' name = "Output White Balance">
+        <br>
+        <br>
+    <input type="submit" name="btn">
+    </form>
+    <p>
+    Click Submit to see the results!
+    </p>
+    
+    
+    
+    
+    </body>
+
+</html>
+
+
