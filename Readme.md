@@ -24,7 +24,7 @@ This [notebook](https://github.com/rzemanuel/Data-Engineering/blob/main/Pipeline
 
 ## Source Images
 
-[Source images](https://drive.google.com/drive/folders/1JDudc9VQm-RswkKT0eEUfZ1wxD_uxBUF?usp=sharing) will needed in order to run data_engineering.py from scratch.  Download the foloder and add it to the working directory prior to running data_enginnering.py.
+[Source images](https://drive.google.com/drive/folders/1JDudc9VQm-RswkKT0eEUfZ1wxD_uxBUF?usp=sharing) will needed in order to run data_engineering.py from scratch.  Download the folder and add it to the working directory prior to running data_enginnering.py.
 
 For Unit Testing, you will need this [test image](https://drive.google.com/file/d/1lTfMdNlErCDYHDFWLFA4r-NUiAyWRU0S/view?usp=sharing). Add it to [unittesting](https://github.com/rzemanuel/Data-Engineering/tree/main/unittests) to run unittest1.py.
 
