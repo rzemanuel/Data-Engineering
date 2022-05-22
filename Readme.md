@@ -1,6 +1,5 @@
 
 ## Introduction
-This project is a demo for FilmSTAT, the company I'll be launching this year.  The focus will be machine learning plugins for post production software geared towards color science transforms. 
 
 My project is about camera white balance control in post production.  Having the ability to change in camera controls after the fact usually requires RAW aquisition formats that have strict patents.  Many camera manufactureres that don't have access to RAW format licensing in camera, so the resort to recording RAW formats outside the camera.  This requires an external recorder which is a added cost for camera operators and productions.  Using ANN regression modeling, this project aims to create a pipeline for training a model to approximate in the non-linear camera transforms for white balance control, to allow for RAW control without an external recorder.  The pipeline web application will demo the post production controls that are possible with white balance. 
 
